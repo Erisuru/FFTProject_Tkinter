@@ -12,7 +12,7 @@
  * It's a fun demonstration, using it is or not is up to the user.
 
 == Installation
- * Point your cmd/terminal to requirements.txt folder
+ * Point your cmd/shell to requirements.txt folder, use the command below.
  ```shell
  pip install -r requirements.txt
  ```
@@ -26,11 +26,15 @@
 == Instruction
  * Download the files and run FFTProject_Tkinter.py
  * Start up the program, you can add an image using "Add"
- * ![alt text](https://github.com/Erisuru/FFTProject_Tkinter/blob/main/readme_img/1.png?raw=true)
+   
+![alt text](https://github.com/Erisuru/FFTProject_Tkinter/blob/main/readme_img/1.png?raw=true)
+
  * After adding image, you can change the slider to see FFT happens on the image on the right
- * ![alt text](https://github.com/Erisuru/FFTProject_Tkinter/blob/main/readme_img/2.png?raw=true)
- * ![alt text](https://github.com/Erisuru/FFTProject_Tkinter/blob/main/readme_img/3.png?raw=true)
+   
+![alt text](https://github.com/Erisuru/FFTProject_Tkinter/blob/main/readme_img/2.png?raw=true)
+![alt text](https://github.com/Erisuru/FFTProject_Tkinter/blob/main/readme_img/3.png?raw=true)
 
 == Result
  * Different keep value on the same image:
- * ![alt text](https://github.com/Erisuru/FFTProject_Tkinter/blob/main/readme_img/4.png?raw=true)
+   
+![alt text](https://github.com/Erisuru/FFTProject_Tkinter/blob/main/readme_img/4.png?raw=true)
