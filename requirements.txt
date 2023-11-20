@@ -1,0 +1,7 @@
+tkinter
+customtkinter
+matplotlib
+numpy
+os
+PIL
+io
