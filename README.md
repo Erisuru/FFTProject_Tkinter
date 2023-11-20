@@ -7,7 +7,7 @@
 
 == What is FFTProject_Tkinter?
  * It's a simple students project for learning Fast Fourier Transform on a simple GUI program. You can add your own   image into the program, transform it and save back your image.
- * Written text are Vietnamese!
+ * Written texts are Vietnamese!
  
 == Why do you use FFT_Project Tkinter?
  * It's a fun demonstration, using it is or not is up to the user.
